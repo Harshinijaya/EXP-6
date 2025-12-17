@@ -18,7 +18,9 @@ I. Connect the multimeter at the output of kit..
 
 
 OBSERVATION TABLE
-
+|Displacement Type|Input voltage(V rms)|output voltage|Frequency|Time(1/f)|
+ |Postive displacement|7|2.2V(D=5mm)|1000||1ms|
+ |Negative displacement|7|D=-5mm|1000|1ms|
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
